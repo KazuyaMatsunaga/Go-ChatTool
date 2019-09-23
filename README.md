@@ -1,5 +1,5 @@
 # Go-ChatTool
 
-ちゃっちいチャットツールです．
+Goで開発したちゃっちいチャットツールです．
 
-![img_7447]()
+[Imgur](https://i.imgur.com/PjRVPaU.jpg)
